@@ -1,0 +1,9 @@
+C:\Users\P225365\source\repos\MusicPlaylister_Server\obj\Debug\MusicPlaylister_Server.csprojAssemblyReference.cache
+C:\Users\P225365\source\repos\MusicPlaylister_Server\obj\Debug\MusicPlaylister_Server.Properties.Resources.resources
+C:\Users\P225365\source\repos\MusicPlaylister_Server\obj\Debug\MusicPlaylister_Server.csproj.GenerateResource.cache
+C:\Users\P225365\source\repos\MusicPlaylister_Server\bin\Debug\MusicPlaylister_Server.exe.config
+C:\Users\P225365\source\repos\MusicPlaylister_Server\bin\Debug\MusicPlaylister_Server.exe
+C:\Users\P225365\source\repos\MusicPlaylister_Server\bin\Debug\MusicPlaylister_Server.pdb
+C:\Users\P225365\source\repos\MusicPlaylister_Server\obj\Debug\MusicPlaylister_Server.exe
+C:\Users\P225365\source\repos\MusicPlaylister_Server\obj\Debug\MusicPlaylister_Server.pdb
+C:\Users\P225365\source\repos\MusicPlaylister_Server\obj\Debug\MusicPlaylister_Server.ServerForm.resources
